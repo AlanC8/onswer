@@ -1,0 +1,29 @@
+{
+  "name": "onswer-sales-bot",
+  "displayName": "Onswer Sales Bot",
+  "version": "1.0.0",
+  "description": "Set up and improve an AI sales bot for WhatsApp and Telegram from Claude: build it from a website link, fill the knowledge base, test it, connect channels, review analytics and chats.",
+  "author": {
+    "name": "Onswer",
+    "email": "support@maxx.kz",
+    "url": "https://onswer.ai"
+  },
+  "homepage": "https://onswer.ai/docs/developers/mcp",
+  "repository": "https://github.com/AlanC8/onswer",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "whatsapp",
+    "telegram",
+    "chatbot",
+    "crm",
+    "amocrm",
+    "bitrix24",
+    "mcp"
+  ],
+  "documentationUrl": "https://onswer.ai/docs/developers/mcp",
+  "supportUrl": "https://onswer.ai/docs/developers/mcp",
+  "privacyPolicyUrl": "https://onswer.ai/privacy",
+  "termsOfServiceUrl": "https://onswer.ai/terms",
+  "icon": "./assets/icon.png"
+}

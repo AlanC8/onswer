@@ -1,0 +1,16 @@
+{
+  "name": "onswer-marketplace",
+  "description": "Onswer: an AI sales assistant for WhatsApp and Telegram. Plugins that set up and improve your bots from Claude.",
+  "owner": {
+    "name": "Onswer",
+    "email": "support@maxx.kz",
+    "url": "https://onswer.ai"
+  },
+  "plugins": [
+    {
+      "name": "onswer-sales-bot",
+      "source": "./",
+      "description": "Set up a sales bot from a website link, fill its knowledge base, test it, connect Telegram and WhatsApp, and review analytics and chats."
+    }
+  ]
+}

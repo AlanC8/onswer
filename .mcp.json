@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onswer": {
+      "type": "http",
+      "url": "https://api.onswer.ai/mcp"
+    }
+  }
+}
